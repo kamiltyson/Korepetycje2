@@ -1,0 +1,5 @@
+ThreadA Banany
+ThreadB Jabłka
+ThreadC Gruszki
+ThreadD Śliwki
+ThreadE Kiwi
